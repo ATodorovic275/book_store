@@ -1,0 +1,44 @@
+index.php?page=admin&param=delete_autor	 Function: removeAutor	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.autor1' doesn't exist	15.02.2020 15:59:43
+index.php?page=admin&param=delete_autor	 Function: removeAutor	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.autor1' doesn't exist	15.02.2020 16:02:03
+index.php?page=admin&param=delete_autor	 Function: removeAutor	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.autor1' doesn't exist	15.02.2020 16:04:31
+index.php?page=admin&param=delete_autor	 Function: removeAutor	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.autor1' doesn't exist	15.02.2020 16:04:40
+index.php?page=admin&param=delete_autor	 Function: removeAutor	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.autor1' doesn't exist	15.02.2020 16:04:46
+index.php?page=admin&param=delete_autor	 Function: removeAutor	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.autor1' doesn't exist	15.02.2020 16:04:49
+index.php?page=admin&param=delete_autor	 Function: removeAutor	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.autor1' doesn't exist	16.02.2020 12:46:31
+index.php?page=admin	 Function: getAllOrders	 Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.first_nam' in 'field list'	16.02.2020 12:49:13
+index.php?page=admin&param=delete_autor	 Function: removeAutor	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.autor1' doesn't exist	16.02.2020 13:22:14
+index.php?page=admin&param=edit_category	 Function: editCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:37:58
+index.php?page=admin&param=edit_category	 Function: editCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:41:14
+index.php?page=admin&param=delete_category	 Function: removeCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:42:47
+index.php?page=admin&param=delete_category	 Function: removeCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:43:25
+index.php?page=admin&param=delete_category	 Function: removeCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:43:28
+index.php?page=admin&param=delete_category	 Function: removeCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:44:16
+index.php?page=admin&param=delete_category	 Function: removeCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:44:37
+index.php?page=admin&param=delete_category	 Function: removeCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:44:39
+index.php?page=admin&param=delete_category	 Function: removeCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:45:38
+index.php?page=admin&param=delete_category	 Function: removeCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:45:42
+index.php?page=admin&param=delete_category	 Function: removeCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:46:00
+index.php?page=admin&param=delete_category	 Function: removeCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:46:10
+index.php?page=admin&param=delete_category	 Function: removeCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:46:15
+index.php?page=admin&param=edit_category	 Function: editCategory	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 14:47:28
+index.php?page=admin&param=insert_category	 Function: insert	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 16:40:22
+index.php?page=admin&param=insert_category	 Function: insert	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 16:40:26
+index.php?page=admin&param=insert_category	 Function: insert	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.categor' doesn't exist	16.02.2020 16:53:15
+index.php?page=register_user	 Function: registerUser	 Error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'use VALUES(NULL,'Mikica','Misadas','aca123!2134','aca@gmail.com','sads!sdad123',' at line 1	16.02.2020 20:36:30
+index.php?page=admin&param=delete_autor	 Function: removeAutor	 Error: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`bookstore`.`book`, CONSTRAINT `book_ibfk_1` FOREIGN KEY (`id_autor`) REFERENCES `autor` (`id_autor`))	17.02.2020 12:33:34
+index.php?page=admin&param=delete_autor	 Function: removeAutor	 Error: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`bookstore`.`order_details`, CONSTRAINT `order_details_ibfk_2` FOREIGN KEY (`id_book`) REFERENCES `book` (`id_book`))	17.02.2020 12:36:36
+index.php?page=register_user	 Function: registerUser	 Error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	11.09.2020 11:40:12
+index.php?page=admin	 Function: getAllOrders	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.cart' doesn't exist	11.09.2020 12:07:38
+index.php?page=admin	 Function: getAllOrders	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.cart' doesn't exist	11.09.2020 20:16:36
+index.php?page=admin	 Function: getAllOrders	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.cart' doesn't exist	11.09.2020 20:19:49
+index.php?page=admin&param=insert_category	 Function: insert	 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`bookstore`.`category`, CONSTRAINT `category_ibfk_1` FOREIGN KEY (`id_category`) REFERENCES `book` (`id_category`))	11.09.2020 20:21:46
+index.php?page=admin&param=insert_category	 Function: insert	 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`bookstore`.`category`, CONSTRAINT `category_ibfk_1` FOREIGN KEY (`id_category`) REFERENCES `book` (`id_category`))	11.09.2020 20:21:58
+index.php?page=admin&param=insert_category	 Function: insert	 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`bookstore`.`category`, CONSTRAINT `category_ibfk_1` FOREIGN KEY (`id_category`) REFERENCES `book` (`id_category`))	11.09.2020 20:22:18
+index.php?page=admin&param=insert_book	 Function: insertBook	 Error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	11.09.2020 20:30:32
+index.php?page=admin&param=insert_book	 Function: insertBook	 Error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	11.09.2020 20:31:11
+index.php?page=admin&param=insert_book	 Function: insertBook	 Error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	11.09.2020 20:36:42
+index.php?page=admin&param=insert_book	 Function: insertBook	 Error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	11.09.2020 20:39:46
+index.php?page=admin	 Function: getAllOrders	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.cart' doesn't exist	12.09.2020 14:33:16
+index.php?page=admin	 Function: getAllOrders	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.cart' doesn't exist	12.09.2020 14:47:12
+index.php?page=admin	 Function: getAllOrders	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.cart' doesn't exist	12.09.2020 14:47:47
+index.php?page=admin	 Function: getAllOrders	 Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookstore.cart' doesn't exist	12.09.2020 14:48:41

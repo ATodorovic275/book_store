@@ -1,0 +1,81 @@
+table,
+th,
+td {
+  padding: 10px;
+}
+table {
+  /* min-width: 400px; */
+  width: 100%;
+}
+.error {
+  color: red;
+  padding-top: 15px;
+}
+input,
+select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+}
+input[type="text"],
+input[type="date"] {
+  border-bottom: 1px solid rgb(173, 172, 172);
+}
+form {
+  width: 300px;
+}
+option {
+  font-size: 16px;
+  padding: 5px;
+}
+select {
+  font-size: 16px;
+}
+#kategorije {
+  color: #000000;
+  padding-left: 13px;
+  font-size: 18px;
+  font-weight: 600;
+}
+#file_btn {
+  display: inline-block;
+  padding: 12px 15px;
+  /* background-color: rgb(160, 157, 157); */
+  border: 3px solid rgb(173, 172, 172);
+  width: 100%;
+  color: #000000;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+input[type="submit"] {
+  font-weight: 600;
+}
+.hidden_err {
+  display: none;
+  color: red;
+}
+.error {
+  color: red;
+}
+.scroll {
+  overflow: scroll;
+  display: block;
+  height: 400px;
+}
+.order {
+  padding-left: 30px;
+}
+.online {
+  margin-top: 15px;
+  font-size: 60px !important;
+  color: #000000;
+}
+.navbar .navbar-right .navbar-nav .user-menu .dropdown-toggle:after {
+  content: none;
+}
+input[type="submit"] {
+  background-color: rgb(156, 152, 152);
+}

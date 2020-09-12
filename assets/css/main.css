@@ -1,0 +1,18 @@
+.hidden_err {
+  display: none;
+  color: red;
+  padding-left: 10px;
+  /* transition: 2s all ease; */
+}
+.main_menu .cart i:after {
+  content: none;
+}
+.error {
+  color: red;
+}
+.imgProd {
+  height: 300px;
+}
+.single_product_item img {
+  height: 250px;
+}
