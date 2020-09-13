@@ -1,8 +1,12 @@
 # Book store
 In this project i create something like mvc pattern. Making controler, model and views, like in laravel framework.
-Data was from database
-User can add books in cart and make order
-Implemented admin panel
+
+# Functionalities:
+  - Data are from database  
+  - Registration and login
+  - User can add books in cart and make order
+  - Sorting and filtering (backend)
+  - Implemented admin panel
 
 Used tehnologies:
   - PHP (OOP)
@@ -10,3 +14,5 @@ Used tehnologies:
   - Css
   - Js
   - Sql
+
+# [see project](http://bookstore.freecluster.eu/index.php)
