@@ -5,7 +5,7 @@ User can add books in cart and make order
 Implemented admin panel
 
 Used tehnologies:
-  - PHP
+  - PHP (OOP)
   - Html
   - Css
   - Js
